@@ -1,2 +1,2 @@
-## Bug-POCs
-Useful findings POCs.
+### Bug-POCs
+Useful exploit POCs for various findings.
