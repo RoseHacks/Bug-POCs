@@ -1,2 +1,3 @@
-### Bug-POCs
-Useful exploit POCs for various findings.
+# ⚡ HTB Web PoCs & Notes 🕶️
+
+Compact PoCs, payloads, and one-line notes from HTB Web Requests + Web Attacks
